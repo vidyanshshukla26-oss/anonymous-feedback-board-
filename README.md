@@ -50,7 +50,7 @@ A multi-wallet Stellar testnet dApp. Anyone with a supported wallet can submit a
 
 Fill these in after deployment and the first browser transaction:
 
-- **Live demo:** https://anonymous-feedback-board-j7y6yw6c4.vercel.app/
+- **Live demo:** https://anonymous-feedback-board.netlify.app/
 - **Contract ID:** CB5KBXZEBTZS27V2JZG6E7TDOWUAJPZF7S4TYUK2FJ3LZEFBNOEA2DR4
 - **Contract explorer:** https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CB5KBXZEBTZS27V2JZG6E7TDOWUAJPZF7S4TYUK2FJ3LZEFBNOEA2DR4;;
 - **Transaction hash:** dceb17d548312298e186488e52cc848441b4b67216e0c5c30d3d494757cfdbfb
